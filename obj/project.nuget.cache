@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gJB1kGUXQ2xxasZzAqi9FvSJkvQltR/VjVKpxarBdZtSzxf9VttMihSPnaoNxE/JUX4AlHoPub38XF7wMeaKw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\SharpEngineMT\\SharpEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxim\\.nuget\\packages\\glfw-net\\3.3.1\\glfw-net.3.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
